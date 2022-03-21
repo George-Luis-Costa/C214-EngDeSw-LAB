@@ -8,6 +8,7 @@ No primeiro exercício, foi introduzido uma revisao de conceitos de POO em JS.
 
 - [x] Exercício 1 concluído testado
 
+<br>
 
 ### :mag_right: Descrição do exercício 2
 
