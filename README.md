@@ -5,4 +5,5 @@
 <p>
 No primeiro exercício, foi introduzido uma revisao de conceitos de POO em JS.
 </p>
+<br>
 - [x] Exercício 1 concluído testado
