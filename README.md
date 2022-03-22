@@ -35,4 +35,13 @@ No segundo exercício, foi feito uma calculadora com 5 operações e usada uma b
 - `Funcionalidade 2`: Calculadora com 5 operações
 - `Funcionalidade 2a`: Validação de dados
 
+<hr>
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+
 
