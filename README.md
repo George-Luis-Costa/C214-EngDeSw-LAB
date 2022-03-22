@@ -100,6 +100,9 @@ Me envie uma mensagem para: georgel.jc98@gmail.com
 ## Autor do Projeto:
 
 George Luis Costa Ribeiro
+
+<br>
+
 [Git Hub] (https://github.com/George-Luis-Costa?tab=repositories)
 
 <hr>
