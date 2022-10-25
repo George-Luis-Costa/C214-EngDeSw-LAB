@@ -98,7 +98,7 @@ npm start
 1. Clonar o repositório
 ```bash
 git clone https://github.com/George-Luis-Costa/C214-EngDeSw-LAB.git
-cd C214_LAB
+cd C214-EngDeSw-LAB
 ```
 
 2. Instalar dependências
