@@ -124,6 +124,10 @@ npm i
 ```bash
 npm start
 ```
+4. Rodar os testes (caso tenha)
+```bash
+npm test
+```
 <br>
 <hr>
 
