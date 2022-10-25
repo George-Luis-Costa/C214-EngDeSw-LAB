@@ -10,7 +10,7 @@
 No primeiro exercício, foi introduzido uma revisao de conceitos de POO em JS.
 </p>
 
-- [x] Exercício 1 concluído testado
+- [x] Exercício 1 concluído
 
 <br>
 
@@ -22,7 +22,19 @@ No segundo exercício, foi feito uma calculadora com 5 operações e usada uma b
 
 <br>
 
-- [x] Exercício 2 concluído testado
+- [x] Exercício 2 concluído
+
+<br>
+
+### :mag_right: Descrição das aula 6 e 7
+
+<p>
+Nas aulas 6 e 7, foram criadas API´s conectadas a um banco de dados (Mongo) de um CRUD basico de filmes e realizados testes unitários.
+</p>
+
+<br>
+
+- [x] Aulas 6 e 7 concluídas
 
 <br>
 <hr>
@@ -34,6 +46,7 @@ No segundo exercício, foi feito uma calculadora com 5 operações e usada uma b
 - `Funcionalidade 1`: Consulta de placas de veiculos
 - `Funcionalidade 2`: Calculadora com 5 operações
 - `Funcionalidade 2a`: Validação de dados
+- `Funcionalidade 3`: CRUD´s com REST API
 
 <hr>
 <br>
