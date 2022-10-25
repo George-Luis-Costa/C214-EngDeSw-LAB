@@ -29,7 +29,7 @@ No segundo exercício, foi feito uma calculadora com 5 operações e usada uma b
 ### :mag_right: Descrição das aula 6 e 7
 
 <p>
-Nas aulas 6 e 7, foram criadas API´s conectadas a um banco de dados (Mongo) de um CRUD basico de filmes e realizados testes unitários.
+Nas aulas 6 e 7, foram criadas API´s conectadas a um banco de dados (Mongo) de um CRUD basico de filmes e realizados testes unitários com Jest.
 </p>
 
 <br>
