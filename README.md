@@ -41,7 +41,8 @@ No segundo exercício, foi feito uma calculadora com 5 operações e usada uma b
 ## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Node.js](https://nodejs.org/en/)(Para tarefa 2). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+[Node.js](https://nodejs.org/en/) (Para tarefa 2).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 <hr>
 <br>
