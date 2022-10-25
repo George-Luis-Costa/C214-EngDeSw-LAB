@@ -104,7 +104,7 @@ cd C214-EngDeSw-LAB
 2. Instalar dependências
 ```bash
 cd (nome da pasta da aula)
-npm install
+npm i
 ```
 
 3. Rodar o projeto
