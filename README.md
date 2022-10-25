@@ -92,6 +92,26 @@ npm start
 ```
 
 <br>
+
+### Códigos Aulas:
+
+1. Clonar o repositório
+```bash
+git clone https://github.com/George-Luis-Costa/C214-EngDeSw-LAB.git
+cd C214_LAB
+```
+
+2. Instalar dependências
+```bash
+cd (nome da pasta da aula)
+npm install
+```
+
+3. Rodar o projeto
+```bash
+npm start
+```
+<br>
 <hr>
 
 ## Precisa de Ajuda com esse projeto? 
