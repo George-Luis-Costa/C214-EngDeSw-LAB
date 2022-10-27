@@ -27,3 +27,8 @@ cd infrastructure
 ```bash
 npm start
 ```
+
+5. Para rodar os testes
+```bash
+npm test
+```
