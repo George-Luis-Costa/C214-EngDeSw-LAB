@@ -10,7 +10,7 @@
 No primeiro exercício, foi introduzido uma revisao de conceitos de POO em JS.
 </p>
 
-- [x] Exercício 1 concluído testado
+- [x] Exercício 1 concluído
 
 <br>
 
@@ -22,7 +22,19 @@ No segundo exercício, foi feito uma calculadora com 5 operações e usada uma b
 
 <br>
 
-- [x] Exercício 2 concluído testado
+- [x] Exercício 2 concluído
+
+<br>
+
+### :mag_right: Descrição das aula 6 e 7
+
+<p>
+Nas aulas 6 e 7, foram criadas API´s conectadas a um banco de dados (Mongo) de um CRUD basico de filmes e realizados testes unitários com Jest.
+</p>
+
+<br>
+
+- [x] Aulas 6 e 7 concluídas
 
 <br>
 <hr>
@@ -34,14 +46,19 @@ No segundo exercício, foi feito uma calculadora com 5 operações e usada uma b
 - `Funcionalidade 1`: Consulta de placas de veiculos
 - `Funcionalidade 2`: Calculadora com 5 operações
 - `Funcionalidade 2a`: Validação de dados
+- `Funcionalidade 3`: CRUD´s com REST API
 
 <hr>
 <br>
 
 ## Pré-requisitos
-
+<p>
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Node.js](https://nodejs.org/en/)(Para tarefa 2). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+[Node.js](https://nodejs.org/en/) (Para tarefa 2).
+</p>
+<p>
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+</p>
 
 <hr>
 <br>
@@ -87,6 +104,30 @@ Após a conclusão do comando acima, inicie a aplicação:
 npm start
 ```
 
+<br>
+
+### Códigos Aulas:
+
+1. Clonar o repositório
+```bash
+git clone https://github.com/George-Luis-Costa/C214-EngDeSw-LAB.git
+cd C214-EngDeSw-LAB
+```
+
+2. Instalar dependências
+```bash
+cd (nome da pasta da aula)
+npm i
+```
+
+3. Rodar o projeto
+```bash
+npm start
+```
+4. Rodar os testes (caso tenha)
+```bash
+npm test
+```
 <br>
 <hr>
 
