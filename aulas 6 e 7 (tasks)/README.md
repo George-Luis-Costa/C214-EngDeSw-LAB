@@ -10,7 +10,7 @@ cd EngDeSw-LAB
 
 2. Instalar dependências
 ```bash
-cd aulas 6 e 7
+cd aulas 6 e 7 (tasks)
 npm install
 ```
 
