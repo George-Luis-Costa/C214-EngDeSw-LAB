@@ -130,7 +130,7 @@ it('should get car by placa', async () => {
 
 it('should not get car by placa', async () => {
     const data = {
-        nome: 'RSQ8',
+        nome: 'Mustang GT',
     };
 
     const response = await Cars.listByPlaca(data);

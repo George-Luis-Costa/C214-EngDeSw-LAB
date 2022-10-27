@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const uri = `mongodb+srv://adm:adm@cluster0.htck3hy.mongodb.net/?retryWrites=true&w=majority`;
+const uri = `link`;
 
 mongoose.connect(uri, {
     useNewUrlParser: true,
