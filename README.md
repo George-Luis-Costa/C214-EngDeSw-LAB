@@ -9,7 +9,7 @@ Repositório de exercícios propostos pela disciplina de Engenharia de Software
 ## Instalação do Node
 - [Node](https://nodejs.org/en/)
 
-## Pasta das aulas
+## Pastas das aulas
 - Para cada pasta de aulas a um readme para executar os projetos
 
 ## Para executar os projetos no geral
