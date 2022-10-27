@@ -1,4 +1,4 @@
-# Exercício Aula 6 - API
+# Exercício Aulas 6 e 7 - API - Testes
 
 ## Para executar o código
 
