@@ -14,10 +14,10 @@ const CarRepository = {
     async update(data) {
         try {
             const update = {
-                nota: data.nota,
+                km: data.km,
             };
             const options = { new: true };
-            const filter = { nome: data.nome };
+            const filter = { nome: data.placa };
             const result = await CarModel.findOneAndUpdate(filter, update, options).exec();
             if (result === null) return []
             return result.toObject();

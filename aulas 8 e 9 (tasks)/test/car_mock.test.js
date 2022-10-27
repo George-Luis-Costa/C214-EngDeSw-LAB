@@ -7,11 +7,11 @@ jest.mock('../src/port/car_repository');
 
 it('should create a car', async () => {
     const data = {
-        placa: 'ABC1234',
-        marca: 'Audi',
-        nome: 'RSQ8',
-        ano: 2022,
-        km: 17000,
+        placa: 'HTK1634',
+        marca: 'Ford',
+        nome: 'Mustang GT',
+        ano: 2018,
+        km: 18556,
     };
 
     const id = Utils.generateUuid();
@@ -25,10 +25,10 @@ it('should create a car', async () => {
 
 it('should not create a car', async () => {
     const data = {
-        marca: 'Audi',
-        nome: 'RSQ8',
-        ano: 2022,
-        km: 17000,
+        marca: 'Ford',
+        nome: 'Mustang GT',
+        ano: 2018,
+        km: 18556,
     };
 
     const response = await Cars.create(data);
@@ -39,8 +39,8 @@ it('should not create a car', async () => {
 it('should update a car', async () => {
     const data = {
         id: Utils.generateUuid(),
-        placa: 'ABC1234',
-        km: 22000,
+        placa: 'HTK1634',
+        km: 30545,
     };
 
     CarsRepository.update.mockResolvedValue(data);
@@ -53,8 +53,8 @@ it('should update a car', async () => {
 it('should not update a car', async () => {
     const data = {
         id: Utils.generateUuid(),
-        nome: 'RSQ8',
-        kmR: 22000,
+        nome: 'Mustang GT',
+        km: 30545,
     };
 
     const response = await Cars.update(data);
@@ -64,7 +64,7 @@ it('should not update a car', async () => {
 
 it('should delete a car', async () => {
     const data = {
-        placa: 'ABC1234',
+        placa: 'HTK1634',
     };
 
     CarsRepository.deleteByPlaca.mockResolvedValue(data);
@@ -76,7 +76,7 @@ it('should delete a car', async () => {
 
 it('should not delete a car', async () => {
     const data = {
-        nome: 'RSQ8',
+        nome: 'Mustang GT',
     };
 
     const response = await Cars.deleteByPlaca(data);
@@ -87,10 +87,10 @@ it('should not delete a car', async () => {
 it('should get all cars', async () => {
     const data = [
         {
-            placa: 'ABC1234',
+            placa: 'HTK1634',
         },
         {
-            placa: 'DEF5678',
+            placa: 'JDU9479',
         },
     ];
 
@@ -104,10 +104,10 @@ it('should get all cars', async () => {
 it('should not get all cars', async () => {
     const data = [
         {
-            nome: 'RSQ8',
+            nome: 'Mustang GT',
         },
         {
-            nome: 'RS7',
+            nome: 'Ferrari 488',
         },
     ];
 
@@ -118,7 +118,7 @@ it('should not get all cars', async () => {
 
 it('should get car by placa', async () => {
     const data = {
-        placa: 'ABC1234',
+        placa: 'HTK1634',
     };
 
     CarsRepository.getByPlaca.mockResolvedValue(data);
