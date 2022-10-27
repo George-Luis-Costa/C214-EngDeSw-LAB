@@ -1,16 +1,16 @@
 # Exercício Aula 6 - API
 
-## Para executar o códgio
+## Para executar o código
 
 1. Clonar o repositório
 ```bash
-git clone https://github.com/INTLPiva/C214_LAB.git
-cd C214_LAB
+git clone https://github.com/George-Luis-Costa/C214-EngDeSw-LAB.git
+cd EngDeSw-LAB
 ```
 
 2. Instalar dependências
 ```bash
-cd aula06
+cd aulas 6 e 7
 npm install
 ```
 

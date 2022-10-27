@@ -1,16 +1,16 @@
 # Exercício Aula 8 - Teste Mock
 
-## Para executar o códgio
+## Para executar o código
 
 1. Clonar o repositório
 ```bash
-git clone https://github.com/INTLPiva/C214_LAB.git
-cd C214_LAB
+git clone https://github.com/George-Luis-Costa/C214-EngDeSw-LAB.git
+cd EngDeSw-LAB
 ```
 
 2. Instalar dependências
 ```bash
-cd aula08
+cd aulas 8 e 9
 npm install
 ```
 
@@ -22,7 +22,8 @@ cd infrastructure
 - Abrir arquivo **database.js**
 - Substituir **link** pelo link de conexão do seu MongoDB
 
-4. Para rodar o projeto
+
+4. Rodar o projeto
 ```bash
 npm start
 ```
